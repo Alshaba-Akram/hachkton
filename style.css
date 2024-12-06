@@ -1,0 +1,714 @@
+body{
+    overflow-x: hidden;
+}
+.bold{
+    background-color: #F5D769;
+    width: 100vw;
+    height: 100vh;
+}
+.head{
+    font-family: sans-serif;
+    font-size: 1.7vw;
+    font-weight: bold;
+    position: relative;
+    left: 9vw;
+    top: 4vh;
+}
+.nav1{
+    font-family: sans-serif;
+    position: relative;
+    top: 2.5vh;
+    left: 36vw;
+}
+.img1{
+    position: relative;
+    top: -5.5vh;
+    left: 71vw;
+    height: 4.9vh;
+}
+.img2{
+    position: relative;
+    top: -5.5vh;
+    left: 70.8vw;
+    height: 5vh;
+}
+.img3{
+    position: relative;
+    top: -5.5vh;
+    left: 80vw;
+    height: 6.5vh;
+    width: 1.8vw;
+}
+.text1{
+    font-weight: bolder;
+    font-size: 3.6vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 9.6vw;
+    top: 15vh;
+}
+.text2{
+    font-family: sans-serif;
+    font-size: 1.5vw;
+    color: rgb(87, 84, 84);
+    position: relative;
+    left: 9.6vw;
+    top:16vh ;
+}
+.btn1{
+    padding: 0.5vw;
+    font-size: 1vw;
+    position: relative;
+    left:9.3vw ;
+    top:-4vh ;
+    border: none;
+    border-radius: 5vh;
+    background-color: rgb(67, 170, 205);
+    color: white;
+}
+.btn2{
+    padding: 0.5vw;
+    font-size: 1vw;
+    position: relative;
+    left:10.5vw ;
+    top:-4vh ;
+    border: none;
+    border-radius: 5vh;
+    background-color:#F5D769;
+    color: rgb(67, 170, 205);
+    border: 0.2vh solid rgb(67, 170, 205);
+}
+.img4{
+    position: relative;
+    left: 30vw;
+    top: -22vh;
+}
+.another{
+     font-weight: bold;
+     font-family: sans-serif;
+     position: relative;
+     left: 36%;
+     bottom: -16vh;
+}
+.line{
+    color: rgb(94, 93, 93);
+    font-size: 1.3vw;
+    position: relative;
+    left: 31vw;
+    bottom: -18vh;
+}
+.bag2{
+    background-color:rgb(249, 249, 249) ;
+    box-shadow: 0px 0px 4px 4px rgb(22, 22, 22,0.1);
+    width: 20vw;
+    height: 20vh;
+    position: relative;
+    left: 12vw;
+    bottom: -27vh;
+    border-radius: 8px ;
+}
+.bag{
+    height: 10vh;
+    position: relative;
+    left: 7vw;
+    bottom: -2vh;
+}
+.bag1{
+    font-family: sans-serif;
+    font-size: 1.5vw;
+    font-weight: bold;
+    position: relative;
+    left: 3.8vw;
+    bottom: -3vh;
+}
+.house2{
+    background-color:rgb(71, 172, 206) ;
+    box-shadow: 0px 0px 4px 4px rgb(22, 22, 22,0.1);
+    width: 20vw;
+    height: 20vh;
+    position: relative;
+    left: 35vw;
+    bottom: -7vh;
+    border-radius: 8px ;
+
+}
+.house{
+    height: 8vh;
+    position: relative;
+    left: 7.5vw;
+    bottom: -2vh;
+}
+.house1{
+    font-family: sans-serif;
+    font-size: 1.5vw;
+    font-weight: bold;
+    position: relative;
+    left: 3.4vw;
+    bottom: -5vh;
+}
+.menu2{
+    background-color:rgb(246, 248, 248) ;
+    box-shadow: 0px 0px 4px 4px rgb(22, 22, 22,0.1);
+    width: 20vw;
+    height: 20vh;
+    position: relative;
+    left: 58vw;
+    bottom: 13vh;
+    border-radius:8px;
+}
+.menu{
+    height: 9vh;
+    position: relative;
+    left: 7.5vw;
+    bottom: -2vh;
+}
+.menu1{
+    font-family: sans-serif;
+    font-size: 1.5vw;
+    font-weight: bold;
+    position: relative;
+    left: 3.4vw;
+    bottom: -5vh;
+}
+.high{
+    font-weight: bold;
+     font-family: sans-serif;
+     position: relative;
+     left: 38%;
+     bottom: -16vh;
+}
+.high1{
+    color: rgb(94, 93, 93);
+    font-size: 1.3vw;
+    position: relative;
+    left: 31vw;
+    bottom: -18vh;
+}
+.last{
+    background-color: rgb(245, 245, 245);
+    height: 90vh;
+}
+.one{
+    width: 18vw;
+    height: 45vh;
+    position: relative;
+    bottom: -30vh;
+    left: 5vw;
+    background-color: white;
+    box-shadow:0px 0px 4px 4px rgb(22, 22, 22,0.1); 
+}
+.one1{
+    font-weight: bold;
+    font-family:sans-serif serif;
+    font-size: 1.5vw;
+    position: relative;
+    bottom: -4vh;
+    left: 2vw;
+}
+.one2{
+    font-family: sans-serif;
+    color: rgb(94, 93, 93);
+    font-size: 1vw;
+    position: relative;
+    left: 2vw;
+    bottom:-5vh ;
+}
+.one3{
+    position: relative;
+    bottom: -6.5vh;
+}
+.two{
+    width: 18vw;
+    height: 45vh;
+    position: relative;
+    bottom: 15vh;
+    left: 29vw;
+    background-color: white;
+    box-shadow:0px 0px 4px 4px rgb(22, 22, 22,0.1); 
+}
+.two1{
+    font-weight: bold;
+    font-family:sans-serif serif;
+    font-size: 1.5vw;
+    position: relative;
+    bottom: -4vh;
+    left: 2vw;
+}
+.two2{
+    font-family: sans-serif;
+    color: rgb(94, 93, 93);
+    font-size: 1vw;
+    position: relative;
+    left: 2vw;
+    bottom:-5vh ;
+}
+.two3{
+    position: relative;
+    bottom: -8.5vh;
+}
+.thre{
+    width: 18vw;
+    height: 45vh;
+    position: relative;
+    bottom: 60vh;
+    left:53vw;
+    background-color: white;
+    box-shadow:0px 0px 4px 4px rgb(22, 22, 22,0.1); 
+}
+.thre1{
+    font-weight: bold;
+    font-family:sans-serif serif;
+    font-size: 1.5vw;
+    position: relative;
+    bottom: -4vh;
+    left: 2vw;
+}
+.thre2{
+    font-family: sans-serif;
+    color: rgb(94, 93, 93);
+    font-size: 1vw;
+    position: relative;
+    left: 2vw;
+    bottom:-5vh ;
+}
+.thre3{
+    position: relative;
+    bottom: -8.5vh;
+}
+.four{
+    width: 18vw;
+    height: 45vh;
+    position: relative;
+    bottom: 105vh;
+    left: 77vw;
+    background-color: white;
+    box-shadow:0px 0px 4px 4px rgb(22, 22, 22,0.1); 
+}
+.four1{
+    font-weight: bold;
+    font-family:sans-serif serif;
+    font-size: 1.5vw;
+    position: relative;
+    bottom: -4vh;
+    left: 2vw;
+}
+.four2{
+    font-family: sans-serif;
+    color: rgb(94, 93, 93);
+    font-size: 1vw;
+    position: relative;
+    left: 2vw;
+    bottom:-5vh ;
+}
+.four3{
+    position: relative;
+    bottom: -8.5vh;
+    width: 50vw;
+    height: 21.4vh;
+}
+.zone1{
+    font-weight: bold;
+     font-family: sans-serif;
+     position: relative;
+     left: 34%;
+     bottom: -16vh;
+}
+.zone2{
+    color: rgb(94, 93, 93);
+    font-size: 1.3vw;
+    position: relative;
+    left: 31vw;
+    bottom: -18vh;
+}
+.zone3{
+    width: 30vw;
+    height: 46vh;
+    position: relative;
+    left: 9vw;
+    bottom: -29vh;
+}
+.zone4{
+    position: relative;
+    left: -8vw;
+    bottom: -29vh;
+}
+.zone5{
+     font-weight: bold;
+     font-family: sans-serif;
+     position: relative;
+     font-size: 2vw;
+     left: 46%;
+     top: -16vh;
+}
+.zone6{
+    color: rgb(94, 93, 93);
+    font-size: 1vw;
+    position: relative;
+    right: -46%;
+    bottom: 16vh;
+}
+.zone7{
+     font-weight: bold;
+     font-family: sans-serif;
+     position: relative;
+     font-size: 1vw;
+     left: 46%;
+     top: -13vh;
+}
+.zone8{
+    color: rgb(94, 93, 93);
+    font-size: 1vw;
+    position: relative;
+    right: -46%;
+    bottom: 13vh;
+}
+.zone9{
+    font-weight: bold;
+    font-family: sans-serif;
+    position: relative;
+    font-size: 1vw;
+    left: 46%;
+    top: -10vh;
+}
+.zone10{
+   color: rgb(94, 93, 93);
+   font-size: 1vw;
+   position: relative;
+   right: -46%;
+   bottom: 9.59vh;
+}
+.morn{
+    background-color: rgb(238, 238, 238);
+    position: relative;
+    top: 8vh;
+    width: 200vw;
+}
+.morn1{
+    position: relative;
+    left: 30.5vw;
+    width: 5vw;
+}
+.morn2{
+    position: relative;
+    left: 33vw;
+}
+.morn3{
+    position: relative;
+    left: 36vw;
+}
+.morn4{
+    position: relative;
+    left: 37vw;
+}
+.morn5{
+    position: relative;
+    left: 40vw;
+}
+.morn6{
+    position: relative;
+    left: 42vw;
+}
+@media screen and (max-width:1000px) {
+    .img3{
+        display: none;
+    }
+      .img1{
+        display: none;
+      }
+      .img2{
+        display: none;
+      }
+    .head{
+        font-size: 6vw;
+        position: relative;
+        top: 1.5vh;
+        left: 2vw;
+    }
+    .nav{
+        background-color: white;
+    }
+    .text1{
+        font-size: 7vw;
+        position: relative;
+        left: 15vw;
+    }
+    .text2{
+        font-size: 4vw;
+        position: relative;
+        left: 15vw;
+    }
+    .btn1{
+         font-size: 3vw;
+         padding:  2vw;
+         position: relative;
+         left: 26vw;
+         top: 18vh;
+    }
+    .btn2{
+        font-size: 3vw;
+         padding:  2vw;
+         position: relative;
+         left: 1vw;
+         top: 26vh;
+    }
+    .img4{
+        position: relative;
+        left: -17vw;
+        top: 25vh;
+        width: 90vw;
+    }
+    .another{
+        font-size: 15vw;
+        position: relative;
+        left: -0.5vw;
+    }
+    .line{
+        font-size: 3vw;
+        position: relative;
+        left: -1vw;
+    }
+    .bag2{
+        position: relative;
+        left: 15vw;
+        width: 55vw;
+    }
+    .bag{
+        position: relative;
+        left: 17vw;
+    }
+    .bag1{
+        font-size: 5vw;
+    }
+    .house2{
+        position: relative;
+        left: 15vw;
+        bottom: -30vh;
+        width: 55vw;
+    }
+    .house{
+        position: relative;
+        left: 17vw;
+    }
+    .house1{
+        font-size: 5vw;
+    }
+    .menu2{
+        position: relative;
+        left: 15vw;
+        bottom: -33vh;
+        width: 55vw;
+    }
+    .menu{
+        position: relative;
+        left: 17vw;
+    }
+    .menu1{
+        font-size: 5vw;
+    }
+    .high{
+        font-size: 16vw;
+        position: relative;
+        left: 10vw;
+        bottom: -100vw;
+    }
+    .high1{
+        font-size: 3vw;
+        position: relative;
+        left: 2.5vw;
+        bottom: -105vw;
+    }
+    .one{
+        width: 45vw;
+        height: 18vh;
+        position: relative;
+        bottom: -50vh;
+        left: 30%;
+        background-color: white;
+        box-shadow:0px 0px 4px 4px rgb(22, 22, 22,0.1); 
+    }
+    .one1{
+        font-weight: bold;
+        font-family:sans-serif serif;
+        font-size: 3.5vw;
+        position: relative;
+        bottom: -4vh;
+        left: 2vw;
+    }
+    .one2{
+        font-family: sans-serif;
+        color: rgb(94, 93, 93);
+        font-size: 2.45vw;
+        position: relative;
+        left: 2vw;
+        bottom:-5vh ;
+    }
+    .one3{
+        position: relative;
+        bottom: -6.5vh;
+    }
+    .two{
+        width: 45vw;
+        height: 18vh;
+        position: relative;
+        bottom: -65vh;
+        left: 29vw;
+        background-color: white;
+        box-shadow:0px 0px 4px 4px rgb(22, 22, 22,0.1); 
+    }
+    .two1{
+        font-family:sans-serif serif;
+        font-weight: bold;
+        font-size: 3.5vw;
+        position: relative;
+        bottom: -4vh;
+        left: 2vw;
+    }
+    .two2{
+        font-family: sans-serif;
+        color: rgb(94, 93, 93);
+        font-size: 2.45vw;
+        position: relative;
+        left: 2vw;
+        bottom:-5vh ;
+    }
+    .two3{
+        position: relative;
+        bottom: -6.5vh;
+    }
+    .thre{
+        width: 45vw;
+        height: 18vh;
+        position: relative;
+        bottom: -79vh;
+        left:29vw;
+        background-color: white;
+        box-shadow:0px 0px 4px 4px rgb(22, 22, 22,0.1); 
+    }
+    .thre1{
+        font-weight: bold;
+        font-family:sans-serif serif;
+        font-size: 3.5vw;
+        position: relative;
+        bottom: -4vh;
+        left: 2vw;
+    }
+    .thre2{
+        font-family: sans-serif;
+        color: rgb(94, 93, 93);
+        font-size: 2.45vw;
+        position: relative;
+        left: 2vw;
+        bottom:-5vh ;
+    }
+    .thre3{
+        position: relative;
+        bottom: -6.5vh;
+    }
+    .four{
+        width: 45vw;
+        height: 18vh;
+        position: relative;
+        bottom: -94vh;
+        left: 29vw;
+        background-color: white;
+        box-shadow:0px 0px 4px 4px rgb(22, 22, 22,0.1); 
+    }
+    .four1{
+        font-weight: bold;
+        font-family:sans-serif serif;
+        font-size: 3.5vw;
+        position: relative;
+        bottom: -4vh;
+        left: 2vw;
+    }
+    .four2{
+        font-family: sans-serif;
+        color: rgb(94, 93, 93);
+        font-size: 2.45vw;
+        position: relative;
+        left: 2vw;
+        bottom:-5vh ;
+    }
+    .four3{
+        position: relative;
+        bottom: -6.5vh;
+        width: 50vw;
+        height: 15.4vh;
+    }
+    .last{
+        background-color: rgb(245, 245, 245);
+        height: 180vh;
+}
+.zone1{
+    font-size: 16vw;
+    position: relative;
+    left: 10vw;
+    bottom: -60vw;
+}
+.zone2{
+    font-size: 3vw;
+    position: relative;
+    left: 2.5vw;
+    bottom: -60vw;
+}
+.zone3{
+    width: 80vw;
+}
+.zone4{
+    position: relative;
+    left: -35vw;
+}
+.zone5{
+    font-weight: bold;
+    font-family: sans-serif;
+    position: relative;
+    font-size: 7vw;
+    left: 9vw;
+    top: 35vh;
+}
+.zone6{
+   color: rgb(94, 93, 93);
+   font-size: 3vw;
+   position: relative;
+   left: 9vw;
+   top: 35vh;
+}
+.zone7{
+    font-weight: bold;
+    font-family: sans-serif;
+    position: relative;
+    font-size: 4vw;
+    left: 9vw;
+    top: 39vh;
+}
+.zone8{
+   color: rgb(94, 93, 93);
+   font-size: 3vw;
+   position: relative;
+   left: 9vw;
+   top: 40vh;
+}
+.zone9{
+   font-weight: bold;
+   font-family: sans-serif;
+   position: relative;
+   font-size: 4vw;
+   left: 9vw;
+   top: 43vh;
+}
+.zone10{
+  color: rgb(94, 93, 93);
+  font-size: 3vw;
+  position: relative;
+  left: 9vw;
+   top: 44vh;
+}
+.morn{
+    position: relative;
+    left: -25vw;
+    top: 49vh;
+}
+.morn1{
+    width: 6vw;
+}
+}
